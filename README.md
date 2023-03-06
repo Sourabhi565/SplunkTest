@@ -1,6 +1,6 @@
 # Azure Functions for Splunk
 
-This repository contains available [Azure Functions]( https://azure.microsoft.com/en-us/services/functions/) to integrate Microsoft data with Splunk.  Azure Functions can be triggered by certain events like an event arriving on an Event Hub, a blob written to a storage account, a Microsoft Teams call concluding, etc.  The functions in this repository respond to these events and route data to Splunk accordingly.
+This repository contains available [Azure Functions]( https://azure.microsoft.com/en-us/services/functions/) to integrate Microsoft data with Splunk.  Azure Functions can be triggered by certain events like an event arriving on an Event Hub, a blob written to a storage account, a Microsoft Teams call concluding, etc.  The functions in this repository respond to these events and route data to Splunk accordingly
 
 ## Getting Started
 
