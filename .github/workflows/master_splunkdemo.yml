@@ -41,4 +41,4 @@ jobs:
           app-name: 'SplunkDemo'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_42A14A15F1244097912F90F816015C8F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DCDF93C734B44D24B487EC51EB5DD3FA }}
